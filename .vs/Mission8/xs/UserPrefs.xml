@@ -1,24 +1,24 @@
 ﻿<Properties StartupConfiguration="{205C5BFB-DD6D-4BF2-8FB0-B22550094245}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission8/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission8/Models/ViewModels/BooksViewModel.cs">
     <Files>
-      <File FileName="Mission8/Program.cs" Line="1" Column="1" />
+      <File FileName="Mission8/Models/ViewModels/PageInfo.cs" Line="1" Column="1" />
+      <File FileName="Mission8/Models/ViewModels/BooksViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission8" expanded="True">
             <Node name="Mission8" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Infrastructure" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="ViewModels" expanded="True" />
+                <Node name="ViewModels" expanded="True">
+                  <Node name="BooksViewModel.cs" selected="True" />
+                </Node>
               </Node>
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

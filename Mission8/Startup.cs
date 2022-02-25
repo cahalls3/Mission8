@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Mission7.Models;
+using Mission8.Models;
 
-namespace Mission7
+namespace Mission8
 {
     public class Startup
     {
