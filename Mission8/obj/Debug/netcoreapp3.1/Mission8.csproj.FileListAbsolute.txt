@@ -75,5 +75,5 @@
 /Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Pages/_PurchaseLayout.cshtml.g.cs
 /Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
 /Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
-/Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
 /Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Categories/Default.cshtml.g.cs
