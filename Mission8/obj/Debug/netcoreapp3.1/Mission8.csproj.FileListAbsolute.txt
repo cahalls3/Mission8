@@ -71,3 +71,8 @@
 /Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Mission8.dll
 /Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Mission8.pdb
 /Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Mission8.genruntimeconfig.cache
+/Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Pages/Purchase.cshtml.g.cs
+/Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Pages/_PurchaseLayout.cshtml.g.cs
+/Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/carsonhalls/Documents/GitHub/Mission8/Mission8/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
