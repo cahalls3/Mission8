@@ -1,21 +1,16 @@
 ﻿<Properties StartupConfiguration="{205C5BFB-DD6D-4BF2-8FB0-B22550094245}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission8/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Mission8/Controllers/HomeController.cs" Line="45" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission8" expanded="True">
             <Node name="Mission8" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Purchase.cshtml" expanded="True">
-                  <Node name="Purchase.cshtml.cs" selected="True" />
-                </Node>
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="Categories" expanded="True" />
-                  </Node>
-                </Node>
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
               </Node>
             </Node>
           </Node>
